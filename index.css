@@ -54,6 +54,10 @@ body {
   padding-top: 100px;
 }
 
+.socials a {
+  text-decoration: none;
+}
+
 .socials img {
   cursor: pointer;
 }
