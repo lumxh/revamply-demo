@@ -78,6 +78,10 @@ body {
     height: 32.83px;
   }
 
+  .main-words {
+    width: 295px;
+  }
+
   .main-word {
     font-size: 9.91687px;
     line-height: 12px;
