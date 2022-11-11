@@ -93,6 +93,7 @@ body {
 
   .main-words {
     width: 295px;
+    padding-top: 150px;
   }
 
   .main-word {
@@ -103,5 +104,6 @@ body {
   .main-wrapper #wip {
     font-size: 15.0159px;
     line-height: 16px;
+    padding-top: 150px;
   }
 }
